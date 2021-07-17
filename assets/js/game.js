@@ -103,6 +103,7 @@ var startGame = function() {
     }
     endGame();
   };
+}
 
 var endGame = function() {
   // if player is still alive, player wins!
